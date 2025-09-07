@@ -4,7 +4,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer>&#169; {`${new Date().getFullYear()} - Digital Midnight`}</footer>
+    <footer>&#169; {`${new Date().getFullYear()} - Noah Pattarapong Chinwatcharaset`}</footer>
   );
 };
 
