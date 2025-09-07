@@ -1,7 +1,7 @@
 # ✅ React Todo List
 
-Tools: React, TailwindCSS
-Live Demo: lustrous-custard-91dbbb.netlify.app
+**Tools:** React, TailwindCSS
+**Live Demo:** lustrous-custard-91dbbb.netlify.app
 
 A dynamic todo list application built with React and TailwindCSS. Users can add, edit, and delete tasks to manage their daily activities.
 
